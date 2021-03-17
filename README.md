@@ -2,4 +2,4 @@
 - 
 - 🌱 I’m currently learning  Full Stack Development.
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: @Rahul Debnath
+- 📫 How to reach me: @rahuldebnath;
